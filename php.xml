@@ -1,12 +1,4 @@
 <application>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="ssh://martins@dev100.surgery.wisc.edu:22/usr/bin/php" id="d9c31ad0-d5b0-4d72-9a19-9f2e0d952f52" name="Dev100 PHP 7" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="dev100.surgery.wisc.edu" PORT="22" USERNAME="martins" PRIVATE_KEY_FILE="C:\Users\martins\.ssh\id_rsa" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="true" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/martins/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-      <interpreter home="C:\Users\martins\Apps\php-7.1.6-Win32-VC14-x64\php.exe" id="1c5f06f8-c5fa-4067-b132-2e825247fa32" name="PHP 7.1" debugger_id="php.debugger.XDebug" debugger_extension="C:\Users\martins\Apps\php-7.1.6-Win32-VC14-x64\ext\php_xdebug.dll" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.1">
