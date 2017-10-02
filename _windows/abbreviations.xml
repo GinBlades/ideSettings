@@ -1,0 +1,12 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="SplitVertically">
+        <abbreviation name="vspl" />
+      </action>
+      <action id="SplitHorizontally">
+        <abbreviation name="spl" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
