@@ -1,6 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Composer" displayType="NONE" />
+    <notification groupId="File Watcher Messages" displayType="NONE" />
     <notification groupId="IGNORE_GROUP_UPDATE" displayType="NONE" shouldLog="false" />
   </component>
 </application>
